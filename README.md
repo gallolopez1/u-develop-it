@@ -19,5 +19,4 @@ By the end, you'll accomplish the following:
 * MySQL
 
 ## Links
-* 🌎 [Live Github Page](https://git.heroku.com/murmuring-bastion-49339.git/)
-* 💾 [Repo](https://github.com/gallolopez1/zookeepr/)
+* 💾 [Repo](https://github.com/gallolopez1/u-develop-it)
